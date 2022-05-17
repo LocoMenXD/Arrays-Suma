@@ -1,0 +1,7 @@
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\bin\Debug\Sumar Valores Arreglos.exe.config
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\bin\Debug\Sumar Valores Arreglos.exe
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\bin\Debug\Sumar Valores Arreglos.pdb
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\obj\Debug\Sumar Valores Arreglos.csprojAssemblyReference.cache
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\obj\Debug\Sumar Valores Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\obj\Debug\Sumar Valores Arreglos.exe
+C:\Users\iqqlabs\source\repos\EjerciciosAbril16\Sumar Valores Arreglos\obj\Debug\Sumar Valores Arreglos.pdb
